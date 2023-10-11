@@ -1,0 +1,11 @@
+{
+  "name": "@oomol-lab/tsconfig",
+  "version": "0.0.1",
+  "repository": "https://github.com/oomol-lab/code-style.git",
+  "files": [
+    "*.json"
+  ],
+  "keywords": ["tsconfig"],
+  "author": "Black-Hole<bh@bugs.cc>",
+  "license": "MIT"
+}

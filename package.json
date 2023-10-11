@@ -1,0 +1,8 @@
+{
+  "name": "@oomol-lab/code-style",
+  "private": true,
+  "version": "1.0.0",
+  "description": "code style",
+  "repository": "https://github.com/oomol-lab/code-style.git",
+  "license": "MIT"
+}
